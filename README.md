@@ -50,7 +50,7 @@ If you need supoort contact us at: info@davoice.io
 
 ## Features
 
-- **High Accuracy:** We have succesfully reached over 99% accurary for all our models. **Here is on of our customer's benchmarks**:
+- **High Accuracy:** We have succesfully reached over 99% accurary for all our models. **Here is one of our customer's benchmarks**:
 
 ```
 ** Benmark used recordings with 1326 TP files.

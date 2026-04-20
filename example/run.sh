@@ -1,3 +1,2 @@
-flutter pub get
+dart pub get
 flutter run 
-

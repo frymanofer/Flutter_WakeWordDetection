@@ -23,8 +23,7 @@ dependencies:
 #  permission_handler_platform_interface: 4.2.3
 #  permission_handler_windows: 0.2.1
 
-  flutter_wake_word:
-    path: ../../flutter_wake_word_lib
+  flutter_wake_word: 0.0.41
   
   record:
   
